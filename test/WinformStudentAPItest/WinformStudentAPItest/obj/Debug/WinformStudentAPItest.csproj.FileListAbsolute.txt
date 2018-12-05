@@ -1,0 +1,16 @@
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\WinformStudentAPItest.exe.config
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\WinformStudentAPItest.exe
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\WinformStudentAPItest.pdb
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\obj\Debug\WinformStudentAPItest.csprojResolveAssemblyReference.cache
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\obj\Debug\WinformStudentAPItest.Form1.resources
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\obj\Debug\WinformStudentAPItest.Properties.Resources.resources
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\obj\Debug\WinformStudentAPItest.csproj.GenerateResource.Cache
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\obj\Debug\WinformStudentAPItest.exe
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\obj\Debug\WinformStudentAPItest.pdb
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\System.Net.Http.Extensions.dll
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\System.Net.Http.Formatting.dll
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\System.Net.Http.Primitives.dll
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\Newtonsoft.Json.dll
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\Newtonsoft.Json.xml
+D:\HOC TAP\hoc ki VII (ki 1 nam 4)\LAP_TRINH_TICH_HOP\projectTest\WinformStudentAPItest\WinformStudentAPItest\bin\Debug\System.Net.Http.Formatting.xml
